@@ -90,6 +90,8 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+" Toggle paste mode
+set pastetoggle=<leader>p
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Moving around, tabs, windows and buffers
