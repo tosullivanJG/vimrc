@@ -4,3 +4,6 @@
 [submodule "lib/nerdtree"]
 	path = lib/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
+[submodule "lib/syntastic"]
+	path = lib/syntastic
+	url = git@github.com:scrooloose/syntastic.git
