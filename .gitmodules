@@ -7,3 +7,9 @@
 [submodule "lib/syntastic"]
 	path = lib/syntastic
 	url = git@github.com:scrooloose/syntastic.git
+[submodule "lib/vim-jsx"]
+	path = lib/vim-jsx
+	url = git@github.com:mxw/vim-jsx.git
+[submodule "lib/vim-javascript"]
+	path = lib/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
