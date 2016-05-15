@@ -16,3 +16,6 @@
 [submodule "lib/ctrlp"]
 	path = lib/ctrlp
 	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "lib/vim-airline"]
+	path = lib/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
