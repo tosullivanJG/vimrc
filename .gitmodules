@@ -22,3 +22,6 @@
 [submodule "lib/vim-commentary"]
 	path = lib/vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
+[submodule "lib/vim-fugitive"]
+	path = lib/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive.git
