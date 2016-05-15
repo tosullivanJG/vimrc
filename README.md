@@ -1,10 +1,10 @@
-# .vimrc
+# vimrc
 
 ## Prerequisites
 
 Install Vim version >= 7.4
 
-If using Homebrew, ensure that `/usr/local/bin is set on `PATH
+If using Homebrew, ensure that `/usr/local/bin` is set on `PATH`
 
     export PATH=/usr/local/bin:$PATH
 
