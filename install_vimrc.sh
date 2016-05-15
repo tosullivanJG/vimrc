@@ -7,6 +7,7 @@ source ~/.vim_runtime/vimrcs/basic.vim
 source ~/.vim_runtime/vimrcs/pathogen.vim
 source ~/.vim_runtime/vimrcs/nerdtree.vim
 source ~/.vim_runtime/vimrcs/syntastic.vim
-source ~/.vim_runtime/vimrcs/vim-javascript.vim' > ~/.vimrc
+source ~/.vim_runtime/vimrcs/vim-javascript.vim
+source ~/.vim_runtime/vimrcs/editorconfig.vim' > ~/.vimrc
 
 echo "Vim configured successfully."
