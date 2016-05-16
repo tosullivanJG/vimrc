@@ -19,8 +19,12 @@ let g:mapleader = ","
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"Always show current position
+" Always show current position
 set ruler
+
+" Show line numbers
+set relativenumber
+set number
 
 " Height of the command bar
 set cmdheight=2
@@ -117,6 +121,9 @@ map <leader>to :tabonly<cr>
 map <leader>tc :tabclose<cr>
 map <leader>tm :tabmove 
 map <leader>t<leader> :tabnext
+
+" Scroll offset
+set so=7
 
 
 """"""""""""""""""""""""""""""
