@@ -28,3 +28,6 @@
 [submodule "lib/editorconfig-vim"]
 	path = lib/editorconfig-vim
 	url = git@github.com:editorconfig/editorconfig-vim.git
+[submodule "lib/vim-better-whitespace"]
+	path = lib/vim-better-whitespace
+	url = git@github.com:ntpeters/vim-better-whitespace.git
