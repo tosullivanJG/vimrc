@@ -15,6 +15,15 @@ If using Homebrew, ensure that `/usr/local/bin` is set on `PATH`
     git submodule update --init --recursive
     sh ~/.vim_runtime/install_vimrc.sh
 
+## Adding plugins
+Install plugins as git submodules.
+
+    git submodule add <plugin> lib/<plugin>
+
+Plugin configuration should be added in a plugin vimrc, `vimrcs/<plugin>`. Apply configuration.
+
+    sh ~/.vim_runtime/install_vimrc.sh
+
 ## Uninstall
 
     rm -rf ~/.vim_runtime
