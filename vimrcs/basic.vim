@@ -91,7 +91,7 @@ set tw=500
 
 set ai "Auto indent
 set si "Smart indent
-set wrap "Wrap lines
+set nowrap "Do not wrap lines
 
 " Toggle paste mode
 set pastetoggle=<leader>p
