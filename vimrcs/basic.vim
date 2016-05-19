@@ -58,6 +58,11 @@ set tm=500
 " Enable syntax highlighting
 syntax enable
 
+" Enable 256 colours on capable terminal emulators
+set t_Co=256
+set term=xterm-256color
+
+" Set vim color scheme
 try
   colorscheme molokai
 catch
@@ -106,7 +111,7 @@ map <C-h> <C-W>h
 map <C-l> <C-W>l
 
 " Close the current buffer
-map <leader>bd :bd<cr>:tabclose<cr>gT
+map <leader>bd :Bclose<cr>:tabclose<cr>gT
 
 " Close all the buffers
 map <leader>ba :bufdo bd<cr>
