@@ -40,3 +40,9 @@
 [submodule "lib/vim-gitgutter"]
 	path = lib/vim-gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "lib/vim-css-color"]
+	path = lib/vim-css-color
+	url = git@github.com:ap/vim-css-color.git
+[submodule "lib/vim-multiple-cursors"]
+	path = lib/vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors.git
