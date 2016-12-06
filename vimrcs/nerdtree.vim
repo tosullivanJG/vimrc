@@ -9,3 +9,6 @@ map <leader>nf :NERDTreeFind<cr>
 
 " Close Vim if only window left open is NERDTree
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+" Ignore some files
+let NERDTreeIgnore = ['^\.DS_Store$']
