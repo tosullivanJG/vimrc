@@ -46,3 +46,6 @@
 [submodule "lib/vim-multiple-cursors"]
 	path = lib/vim-multiple-cursors
 	url = git@github.com:terryma/vim-multiple-cursors.git
+[submodule "lib/vim-pug"]
+	path = lib/vim-pug
+	url = git://github.com/digitaltoad/vim-pug.git
