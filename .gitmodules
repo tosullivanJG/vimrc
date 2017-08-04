@@ -49,3 +49,6 @@
 [submodule "lib/vim-pug"]
 	path = lib/vim-pug
 	url = git://github.com/digitaltoad/vim-pug.git
+[submodule "lib/ack"]
+	path = lib/ack
+	url = git@github.com:mileszs/ack.vim.git
