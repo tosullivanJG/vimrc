@@ -4,54 +4,54 @@
 [submodule "lib/nerdtree"]
 	path = lib/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
-[submodule "lib/syntastic"]
-	path = lib/syntastic
-	url = git@github.com:scrooloose/syntastic.git
-[submodule "lib/vim-jsx"]
-	path = lib/vim-jsx
-	url = git@github.com:mxw/vim-jsx.git
-[submodule "lib/vim-javascript"]
-	path = lib/vim-javascript
-	url = git@github.com:pangloss/vim-javascript.git
-[submodule "lib/ctrlp"]
-	path = lib/ctrlp
-	url = git@github.com:ctrlpvim/ctrlp.vim.git
-[submodule "lib/vim-airline"]
-	path = lib/vim-airline
-	url = git@github.com:vim-airline/vim-airline.git
-[submodule "lib/vim-commentary"]
-	path = lib/vim-commentary
-	url = git@github.com:tpope/vim-commentary.git
-[submodule "lib/vim-fugitive"]
-	path = lib/vim-fugitive
-	url = git@github.com:tpope/vim-fugitive.git
-[submodule "lib/editorconfig-vim"]
-	path = lib/editorconfig-vim
-	url = git@github.com:editorconfig/editorconfig-vim.git
-[submodule "lib/vim-better-whitespace"]
-	path = lib/vim-better-whitespace
-	url = git@github.com:ntpeters/vim-better-whitespace.git
+#[submodule "lib/syntastic"]
+#	path = lib/syntastic
+#	url = git@github.com:scrooloose/syntastic.git
+#[submodule "lib/vim-jsx"]
+#	path = lib/vim-jsx
+#	url = git@github.com:mxw/vim-jsx.git
+#[submodule "lib/vim-javascript"]
+#	path = lib/vim-javascript
+#	url = git@github.com:pangloss/vim-javascript.git
+#[submodule "lib/ctrlp"]
+#	path = lib/ctrlp
+#	url = git@github.com:ctrlpvim/ctrlp.vim.git
+#[submodule "lib/vim-airline"]
+#	path = lib/vim-airline
+#	url = git@github.com:vim-airline/vim-airline.git
+#[submodule "lib/vim-commentary"]
+#	path = lib/vim-commentary
+#	url = git@github.com:tpope/vim-commentary.git
+#[submodule "lib/vim-fugitive"]
+#	path = lib/vim-fugitive
+#	url = git@github.com:tpope/vim-fugitive.git
+#[submodule "lib/editorconfig-vim"]
+#	path = lib/editorconfig-vim
+#	url = git@github.com:editorconfig/editorconfig-vim.git
+#[submodule "lib/vim-better-whitespace"]
+#	path = lib/vim-better-whitespace
+#	url = git@github.com:ntpeters/vim-better-whitespace.git
 [submodule "lib/molokai"]
 	path = lib/molokai
 	url = git@github.com:tomasr/molokai.git
-[submodule "lib/vim-surround"]
-	path = lib/vim-surround
-	url = git://github.com/tpope/vim-surround.git
-[submodule "lib/vim-gitgutter"]
-	path = lib/vim-gitgutter
-	url = git://github.com/airblade/vim-gitgutter.git
-[submodule "lib/vim-css-color"]
-	path = lib/vim-css-color
-	url = git@github.com:ap/vim-css-color.git
-[submodule "lib/vim-multiple-cursors"]
-	path = lib/vim-multiple-cursors
-	url = git@github.com:terryma/vim-multiple-cursors.git
-[submodule "lib/vim-pug"]
-	path = lib/vim-pug
-	url = git://github.com/digitaltoad/vim-pug.git
-[submodule "lib/ack"]
-	path = lib/ack
-	url = git@github.com:mileszs/ack.vim.git
-[submodule "lib/prettier"]
-	path = lib/prettier
-	url = git@github.com:prettier/vim-prettier.git
+#[submodule "lib/vim-surround"]
+#	path = lib/vim-surround
+#	url = git://github.com/tpope/vim-surround.git
+#[submodule "lib/vim-gitgutter"]
+#	path = lib/vim-gitgutter
+#	url = git://github.com/airblade/vim-gitgutter.git
+#[submodule "lib/vim-css-color"]
+#	path = lib/vim-css-color
+#	url = git@github.com:ap/vim-css-color.git
+#[submodule "lib/vim-multiple-cursors"]
+#	path = lib/vim-multiple-cursors
+#	url = git@github.com:terryma/vim-multiple-cursors.git
+#[submodule "lib/vim-pug"]
+#	path = lib/vim-pug
+#	url = git://github.com/digitaltoad/vim-pug.git
+#[submodule "lib/ack"]
+#	path = lib/ack
+#	url = git@github.com:mileszs/ack.vim.git
+#[submodule "lib/prettier"]
+#	path = lib/prettier
+#	url = git@github.com:prettier/vim-prettier.git
