@@ -55,3 +55,9 @@
 #[submodule "lib/prettier"]
 #	path = lib/prettier
 #	url = git@github.com:prettier/vim-prettier.git
+[submodule "lib/vim-airline"]
+	path = lib/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "lib/syntastic"]
+	path = lib/syntastic
+	url = git@github.com:scrooloose/syntastic.git
