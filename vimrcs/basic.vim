@@ -16,7 +16,7 @@ let mapleader = ","
 let g:mapleader = ","
 
 " Enable mouse events
-set mouse=a
+set mouse=v
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
@@ -171,3 +171,5 @@ endfunction
 " => Saving
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 command W w
+
+set listchars=eol:$,tab:>→,space:⌴,trail:⌴
