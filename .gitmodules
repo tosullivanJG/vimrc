@@ -61,3 +61,6 @@
 [submodule "lib/syntastic"]
 	path = lib/syntastic
 	url = git@github.com:scrooloose/syntastic.git
+[submodule "lib/vim-go"]
+	path = lib/vim-go
+	url = git@github.com:fatih/vim-go.git
